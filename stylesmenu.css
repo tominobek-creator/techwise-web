@@ -1,0 +1,63 @@
+.container {
+    width: 1200px;
+    margin: 0px auto;
+    background: #202020;
+}
+
+body {
+    background: #202020;
+}
+
+h1 {
+    color: #32EB00;
+
+}
+
+a {
+    color: #32EB00;
+    text-decoration: none;
+}
+
+p {
+    color: #32EB00;
+}
+
+.vizitka {
+    display: block;
+    margin: 0 auto;
+    width: 1200px;
+}
+
+ul li {
+    color: yellow
+}
+
+.akciovyplagat {
+    width: 1200px;
+}
+
+.partneri {
+    width: 1200px;
+}
+
+table {
+            width: 100%;
+            border-collapse: collapse;
+            color: yellow; /* Žltá farba písma pre celú tabuľku */
+        }
+
+th, td {
+            border: 1px solid white; /* Jednoduché biele orámovanie buniek */
+            padding: 10px;
+            text-align: left;
+        }
+
+th {
+            color: limegreen; /* Zelená farba pre hlavičku (použil som bledšiu zelenú pre lepší kontrast na tmavom pozadí) */
+            font-weight: bold; /* Tučné písmo pre hlavičku */
+        }
+
+img {
+            width: 120px; /* Zjednotenie veľkosti obrázkov */
+            border-radius: 4px;
+        }
